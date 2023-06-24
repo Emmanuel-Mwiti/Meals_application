@@ -22,10 +22,4 @@ Sure! Here's an example of features you can include in a README file for a Meals
 
 [Click here](https://www.example.com) to visit the Meal Application.
 
-## **SCREENSHOTS**
-
-![Screenshot 1](Meals_application/public/screenshots/capture1.png)
-![Screenshot 2](Meals_application/public/screenshots/capture2.png)
-
-
 
