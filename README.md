@@ -20,6 +20,6 @@ Sure! Here's an example of features you can include in a README file for a Meals
 
 7. **Localization**: The app supports multiple languages and provides translations for a diverse user base.
 
-[Click here](https://www.example.com) to visit the Meal Application.
+[Click here](https://meals-application-by-manu.netlify.app/) to visit the Meal Application.
 
 
