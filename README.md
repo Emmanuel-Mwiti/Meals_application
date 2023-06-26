@@ -2,7 +2,6 @@
 
 This is a react application that utilizes the technology of context API to help fetch data from different components using a global context component. It uses a third-party open-source API from meals
 
-Sure! Here's an example of features you can include in a README file for a Meals App:
 
 ## **Features**
 
